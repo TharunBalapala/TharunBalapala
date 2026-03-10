@@ -17,20 +17,19 @@ I'm a passionate Computer Science student focused on building **intelligent syst
 
 ### 🌟 Featured Projects
 
-- **[Internal Knowledge Search Engine](https://github.com/Raghav-Purohit404/Raggers)**: A sophisticated RAG-based system[cite: 42, 43].
-  - [cite_start]Developed using **LangChain**, **FAISS**, and **Phi-3** with **Hugging Face** embeddings.
-  - [cite_start]Implemented multi-format support (PDF, CSV, PPT, etc.) and deduplication logic[cite: 44, 45].
-  - [cite_start]Integrated **CUDA/GPU acceleration** to significantly reduce LLM response latency.
-- **[c-compiler](https://github.com/TharunBalapala/c-compiler)**: Building a compiler from the ground up to understand system-level execution and language internals.
+- **[Internal Knowledge Search Engine](https://github.com/Raghav-Purohit404/Raggers)**: A sophisticated RAG-based system.
+  - Developed using **LangChain**, **FAISS**, and **Phi-3** with **Hugging Face** embeddings.
+  - Implemented multi-format support (PDF, CSV, PPT, etc.) and deduplication logic.
+  - Integrated **CUDA/GPU acceleration** to significantly reduce LLM response latency.
+    
+- **[c-compiler](https://github.com/TharunBalapala/c-compiler)**: Building a compiler from the ground up to understand system-level execution and language internals
+  
 - **[meaning-preserving-ai](https://github.com/TharunBalapala/meaning-preserving-ai)**: AI-driven writing assistant focused on semantic integrity.
 
 
+---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=TharunBalapala&show_icons=true&theme=tokyonight" alt="Tharun's stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharunBalapala&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+
 
 ### 📫 Let's Connect!
 - **LinkedIn**: https://www.linkedin.com/in/nagatharun-balapala-8161b2383?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
